@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Facebook_Page_Using_React.git/static/css/main.b2ea8915.chunk.css",
+    "main.js": "/Facebook_Page_Using_React.git/static/js/main.0a7d9f6d.chunk.js",
+    "main.js.map": "/Facebook_Page_Using_React.git/static/js/main.0a7d9f6d.chunk.js.map",
+    "runtime-main.js": "/Facebook_Page_Using_React.git/static/js/runtime-main.6e6884a4.js",
+    "runtime-main.js.map": "/Facebook_Page_Using_React.git/static/js/runtime-main.6e6884a4.js.map",
+    "static/js/2.5b0d7e6c.chunk.js": "/Facebook_Page_Using_React.git/static/js/2.5b0d7e6c.chunk.js",
+    "static/js/2.5b0d7e6c.chunk.js.map": "/Facebook_Page_Using_React.git/static/js/2.5b0d7e6c.chunk.js.map",
+    "index.html": "/Facebook_Page_Using_React.git/index.html",
+    "precache-manifest.8f924a8cf24d4a515dc7ce9853a776db.js": "/Facebook_Page_Using_React.git/precache-manifest.8f924a8cf24d4a515dc7ce9853a776db.js",
+    "service-worker.js": "/Facebook_Page_Using_React.git/service-worker.js",
+    "static/css/main.b2ea8915.chunk.css.map": "/Facebook_Page_Using_React.git/static/css/main.b2ea8915.chunk.css.map",
+    "static/js/2.5b0d7e6c.chunk.js.LICENSE.txt": "/Facebook_Page_Using_React.git/static/js/2.5b0d7e6c.chunk.js.LICENSE.txt",
+    "static/media/fb.png": "/Facebook_Page_Using_React.git/static/media/fb.611f6ec2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e6884a4.js",
+    "static/js/2.5b0d7e6c.chunk.js",
+    "static/css/main.b2ea8915.chunk.css",
+    "static/js/main.0a7d9f6d.chunk.js"
+  ]
+}
